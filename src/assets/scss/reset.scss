@@ -1,0 +1,48 @@
+// Сброс стилей
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// Сброс стилей для списков
+ul,
+ol {
+  list-style: none;
+}
+
+// Сброс стилей для ссылок
+a {
+  text-decoration: none;
+}
+
+// Сброс стилей для заголовков
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+// Сброс стилей для изображений
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+// Сброс стилей для кнопок
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+}
+
+// Отмена выделения при наведении
+*::selection {
+  background: transparent;
+}
