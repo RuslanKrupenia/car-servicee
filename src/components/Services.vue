@@ -1,6 +1,6 @@
 <template>
 <div class="root">
-<section class="services">
+<section id="services" class="services">
     <div class="services__container">
         <h2 class="services__title">Услуги</h2>
         <p class="services__subtitle">Помимо нанесения лакокрасочных покрытий вы можете получить 
@@ -129,6 +129,11 @@ export default{
         margin-right: auto;
         margin-left: auto;
         margin-top: 60px;
+        transition: all 1s;
+    }
+    &__button:hover{
+        background-color: #ED7173;
+        color: #D4D4D4;
     }
 }
 </style>

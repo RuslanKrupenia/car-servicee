@@ -9,13 +9,13 @@
             <div class="header__navigation">
                 <ul class="navigation__menu">
                     <li class="navigation__item"><a href="#" class="navigation__link">Главная</a></li>
-                    <li class="navigation__item"><a href="#" class="navigation__link">Услуги</a></li>
+                    <li class="navigation__item"><a href="#services" class="navigation__link">Услуги</a></li>
                     <li class="navigation__item"><a href="#" class="navigation__link">Примеры работ</a></li>
                     <li class="navigation__item"><a href="#" class="navigation__link">Контакты</a></li>
                 </ul>
             </div>
-            <div class="header__location"><a href="#" class="location-link">Киев, улица Крещатик 25(1)</a></div>
-            <div class="header__number"><a href="#" class="number-link">+380 (50) 668 8878</a></div>
+            <div class="header__location"><a href="https://www.google.com.ua/maps/place/%D1%83%D0%BB.+%D0%9A%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA,+25,+%D0%9A%D0%B8%D0%B5%D0%B2,+02000/@50.4444625,30.5205899,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4ce55d0276e59:0xb03fd0a90c6de69a!8m2!3d50.4444625!4d30.5227786!16s%2Fg%2F11c26xs9sn?hl=ru" class="location-link">Киев, улица Крещатик 25(1)</a></div>
+            <div class="header__number"><a href="tel:380500368958" class="number-link">+380 (50) 668 8878</a></div>
         </div>
         <hr>
         <div class="header__info">
